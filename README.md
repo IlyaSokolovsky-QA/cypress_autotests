@@ -20,7 +20,7 @@
 ![image](https://raw.githubusercontent.com/IlyaSokolovsky-QA/cypress_autotests100/refs/heads/main/baseUrl.png)
 
 2. Применение хуков beforeEach и afterEach
-![image]()
+![image](https://raw.githubusercontent.com/IlyaSokolovsky-QA/cypress_autotests100/refs/heads/main/hooks.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
 ![image]()
