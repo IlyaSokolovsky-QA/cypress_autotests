@@ -23,7 +23,7 @@
 ![image](https://raw.githubusercontent.com/IlyaSokolovsky-QA/cypress_autotests100/refs/heads/main/hooks.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
-![image]()
+![image](https://raw.githubusercontent.com/IlyaSokolovsky-QA/cypress_autotests100/refs/heads/main/user_data.png)
 
 4. Каждая страница описана в формате объекта с локаторами
 ![image]()
