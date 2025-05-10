@@ -26,7 +26,7 @@
 ![image](https://raw.githubusercontent.com/IlyaSokolovsky-QA/cypress_autotests100/refs/heads/main/user_data.png)
 
 4. Каждая страница описана в формате объекта с локаторами
-![image]()
+![image](https://raw.githubusercontent.com/IlyaSokolovsky-QA/cypress_autotests100/refs/heads/main/locators.png)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
